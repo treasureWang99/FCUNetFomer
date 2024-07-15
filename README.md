@@ -1,1 +1,2 @@
 # FCUNetFomer
+The CO2Datasets folder stores a sample data. model4P1, model4P2, and model4P4 folders are the trained parameter files of the FCUNetfomer, respectively. model4P16 folder is the trained parameter files of the UNet model. train folder contains the code of the trained agent model. The test folder contains the code that can be used to visualize and test the results using the example data and parameter files.
